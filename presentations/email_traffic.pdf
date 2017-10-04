@@ -1,0 +1,134 @@
+-----Original Message-----
+From: TALAFUSE, THOMAS P Maj USAF AFMC HQ AFMC/A9A
+[mailto:thomas.talafuse.1@us.af.mil] 
+Sent: Wednesday, July 26, 2017 9:38 AM
+To: Harman, Michael J Ctr USAF AETC AFIT/ENS <Michael.Harman@afit.edu>;
+Freels, Jason K Maj USAF AETC AFIT/ENV <Jason.Freels@afit.edu>
+Cc: Burke, Sarah E Ctr USAF AETC AFIT/ENS <sarah.burke.ctr@afit.edu>
+Subject: RE: FOUO// ALCM J-Box Files (RE: SLE process telecom)
+
+They did send us a Minitab file with some data for us to look at.  As I told
+Jason shortly after they sent it, I do not have access to Minitab.  With it
+being a .mpj project file, we can't use R or any other package to read in
+the data either.  It was my understanding that Jason thought he had a way to
+open the file and access the data and if he couldn't, he was going to inform
+Bill LaPach that a different file structure would be needed.  
+
+I haven't engaged since then and assumed (perhaps incorrectly) that Jason
+was successful in opening the Minitab file.  
+
+Other than following up on that, I was not aware of any other outstanding
+actions from our end.  
+
+Tom
+
+V/R,
+Thomas P. Talafuse, PhD, Major, USAF
+Operations Research Analyst, HQ AFMC, A9A
+Thomas.Talafuse.1@us.af.mil
+DSN: 787-4535
+Comm: 937-257-4535
+
+-----Original Message-----
+From: Harman, Michael J Ctr USAF AETC AFIT/ENS
+[mailto:Michael.Harman@afit.edu] 
+Sent: Tuesday, July 25, 2017 4:55 PM
+To: TALAFUSE, THOMAS P Maj USAF AFMC HQ AFMC/A9A
+<thomas.talafuse.1@us.af.mil>; FREELS, JASON K Maj USAF AETC AF INST OF TECH
+IN/ENV <jason.freels@us.af.mil>
+Cc: BURKE, SARAH E CTR USAF AETC ENS <sarah.burke.4.ctr@us.af.mil>
+Subject: RE: FOUO// ALCM J-Box Files (RE: SLE process telecom)
+
+Please correct me if I am wrong...
+
+At the last meeting I remember they wanted some support from you two
+regarding their math and some processes, potentially. Is that right?
+
+I followed up with an email shortly after that and so did Andrew Porteous
+but I have not heard anything either.
+
+I don't have any outstanding actions in my tracker but I was not real clear
+on who was doing what. My expectations were that the ball was in their court
+to contact us/you with additional questions.
+
++
+Mike
+
+Michael J. Harman, Contractor
+Scientific Test & Analysis Techniques (STAT) Center of Excellence (COE)
+SIPR: Michael.J.Harman4.ctr@mail.smil.mil
+(937) 255-3636 x4596 (desk)
+(937) 768-9561 (cell)
+
+
+-----Original Message-----
+From: TALAFUSE, THOMAS P Maj USAF AFMC HQ AFMC/A9A
+[mailto:thomas.talafuse.1@us.af.mil] 
+Sent: Tuesday, July 25, 2017 3:37 PM
+To: Harman, Michael J Ctr USAF AETC AFIT/ENS <Michael.Harman@afit.edu>
+Cc: Freels, Jason K Maj USAF AETC AFIT/ENV <Jason.Freels@afit.edu>; Burke,
+Sarah E Ctr USAF AETC AFIT/ENS <sarah.burke.ctr@afit.edu>
+Subject: RE: FOUO// ALCM J-Box Files (RE: SLE process telecom)
+
+Mike,
+
+Haven't heard or seen anything regarding support for the NWC reliability in
+a while.  Anything new?
+
+Tom
+
+V/R,
+Thomas P. Talafuse, PhD, Major, USAF
+Operations Research Analyst, HQ AFMC, A9A
+Thomas.Talafuse.1@us.af.mil
+DSN: 787-4535
+Comm: 937-257-4535
+
+
+-----Original Message-----
+From: LAPACH, WILLIAM L JR NH-03 USAF AFMC AFNWC/NDMEA 
+Sent: Tuesday, May 16, 2017 12:00 PM
+To: Harman, Michael J Ctr USAF AETC AFIT/ENS <Michael.Harman.Ctr@afit.edu>
+Cc: TALAFUSE, THOMAS P Maj USAF AFMC HQ AFMC/A9A
+<thomas.talafuse.1@us.af.mil>; BURKE, SARAH E CTR USAF AETC ENS
+<sarah.burke.4.ctr@us.af.mil>; PORTEOUS, ANDREW B GS-11 USAF AFMC AFNWC/NDES
+<andrew.porteous@us.af.mil>; FREELS, JASON K Maj USAF AETC AF INST OF TECH
+IN/ENV <jason.freels@us.af.mil>; KEARNEY, BRETT A NH-03 USAF AFMC
+AFNWC/NDMEA <brett.kearney.1@us.af.mil>
+Subject: FOUO// ALCM J-Box Files (RE: SLE process telecom)
+
+FOR OFFICIAL USE ONLY (FOUO):  This electronic message and its attachment(s)
+contain restricted, sensitive, non-public information, including personal
+information.  The information is not intended for disclosure outside
+official government channels and is exempt from release under the Privacy
+Act, 5 U.S.C. 552a.  Further distribution is prohibited without the approval
+of the author of this message.  If you have received this message in error,
+please notify the sender and delete all copies of this message.
+-----
+
+Per our telecom, attached you will find the J-Box SLE calculation (adjusted
+after the date of the briefing file you received, for operational threshold
+of 2.5 volts and 2% impact vs 10%).
+
+I've also attached a Minitab file and a corrosion prediction calculation
+file.
+
+Also, for further clarification on the L10/B10 life.  The determination of
+2% on any one subsystem is based on the likelihood of up to 4 subsystems
+simultaneously presenting reliability erosion failure mechanisms (up to 2%
+each) and a group of other emerging failure mechanisms across multiple
+subsystems presenting a composite effect of an additional 2% (to total 10%
+on the overall system).
+
+
+
+//SIGNED//
+
+Bill LaPach 
+Analysis Team Lead
+Cruise Missile Sustainment
+AFNWC/NDMEA 
+
+WK: 405-582-1962 / DSN: 852-1962 
+Fax (405) 736-7506
+william.lapach@us.af.mil
